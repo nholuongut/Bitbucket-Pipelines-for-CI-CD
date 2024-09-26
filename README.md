@@ -18,11 +18,13 @@ Review the `README.md` file in each video directory for:
 - links to references outside of the course
 - and specific instructions on how to use other files in that directory.
 
-### Instructor
+### [Contact an Author]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 Check out my other courses on [Bitbucket Pipelines for CICD](https://github.com/nholuongut/Bitbucket-Pipelines-for-CI-CDbitbucket-pipelines-for-ci-cd).
